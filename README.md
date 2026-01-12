@@ -6,22 +6,19 @@ This project documents the design and implementation of a secure, SLA-grade Inte
 The implementation focuses on:
 
 Accurate ISP uptime/downtime tracking
-
 Least-privilege security design
-
 Audit-ready monitoring and alerting
-
 Noise-free, management-friendly reporting
 
 🎯 Objectives
 
-Monitor ILL availability (uptime & downtime) reliably
+1.Monitor ILL availability (uptime & downtime) reliably
 
-Generate SLA-ready reports for ISP performance validation
+2.Generate SLA-ready reports for ISP performance validation
 
-Implement monitoring access using security best practices
+3.Implement monitoring access using security best practices
 
-Avoid over-monitoring and reduce alert fatigue
+4.Avoid over-monitoring and reduce alert fatigue
 
 🏗️ Architecture Overview
 
